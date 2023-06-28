@@ -1,0 +1,263 @@
+ [
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"Meu Timão",
+         "title":"Tamires fala sobre convocação para Copa do Mundo e efeito no Corinthians - Meu Timão",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5tZXV0aW1hby5jb20uYnIvbm90aWNpYXMtZG8tY29yaW50aGlhbnMvNDUzNDEzL3RhbWlyZXMtZmFsYS1zb2JyZS1jb252b2NhY2FvLXBhcmEtY29wYS1kby1tdW5kby1lLWVmZWl0by1uby1jb3JpbnRoaWFuc9IBd2h0dHBzOi8vd3d3Lm1ldXRpbWFvLmNvbS5ici9hbXAtbm90aWNpYS80NTM0MTMvdGFtaXJlcy1mYWxhLXNvYnJlLWNvbnZvY2FjYW8tcGFyYS1jb3BhLWRvLW11bmRvLWUtZWZlaXRvLW5vLWNvcmludGhpYW5z?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T16:34:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"InfoMoney",
+         "title":"Ibovespa em queda de mais de 1%, dólar em alta: por que a ata do Copom e o IPCA-15 não animaram o mercado - InfoMoney",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL2lib3Zlc3BhLWVtLXF1ZWRhLWRlLW1haXMtZGUtMS1kb2xhci1lbS1hbHRhLXBvci1xdWUtYS1hdGEtZG8tY29wb20tZS1vLWlwY2EtMTUtbmFvLWFuaW1hcmFtLW8tbWVyY2Fkby_SAZEBaHR0cHM6Ly93d3cuaW5mb21vbmV5LmNvbS5ici9tZXJjYWRvcy9pYm92ZXNwYS1lbS1xdWVkYS1kZS1tYWlzLWRlLTEtZG9sYXItZW0tYWx0YS1wb3ItcXVlLWEtYXRhLWRvLWNvcG9tLWUtby1pcGNhLTE1LW5hby1hbmltYXJhbS1vLW1lcmNhZG8vYW1wLw?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T16:09:56Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"O Antagonista",
+         "title":"O que pensa o presidente da Febraban sobre a taxa de juros - O Antagonista",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vb2FudGFnb25pc3RhLnVvbC5jb20uYnIvZWNvbm9taWEvby1xdWUtcGVuc2Etby1wcmVzaWRlbnRlLWRhLWZlYnJhYmFuLXNvYnJlLWEtdGF4YS1kZS1qdXJvcy_SAWhodHRwczovL29hbnRhZ29uaXN0YS51b2wuY29tLmJyL2Vjb25vbWlhL28tcXVlLXBlbnNhLW8tcHJlc2lkZW50ZS1kYS1mZWJyYWJhbi1zb2JyZS1hLXRheGEtZGUtanVyb3MvYW1wLw?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T15:46:14Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"MPF",
+         "title":"MPF pede cancelamento de outorgas de radiodifusão da Jovem Pan por desinformação e incentivo a ações antidemocráticas - MPF",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5tcGYubXAuYnIvc3Avc2FsYS1kZS1pbXByZW5zYS9ub3RpY2lhcy1zcC9tcGYtcGVkZS1jYW5jZWxhbWVudG8tZGUtb3V0b3JnYXMtZGUtcmFkaW9kaWZ1c2FvLWRhLWpvdmVtLXBhbi1wb3ItZGVzaW5mb3JtYWNhby1lLWluY2VudGl2by1hLWFjb2VzLWFudGlkZW1vY3JhdGljYXPSAQA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T15:20:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"InfoMoney",
+         "title":"Lula diz que fica ‘indignado’ com juros do consignado: ‘Está lesando o povo pobre’ - InfoMoney",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmluZm9tb25leS5jb20uYnIvbWluaGFzLWZpbmFuY2FzL2x1bGEtY29uc2lnbmFkby1pbnNzLWp1cm9zLXRheGEtZW1wcmVzdGltby1lc3RhLWxlc2FuZG8tby1wb3ZvLXBvYnJlL9IBdmh0dHBzOi8vd3d3LmluZm9tb25leS5jb20uYnIvbWluaGFzLWZpbmFuY2FzL2x1bGEtY29uc2lnbmFkby1pbnNzLWp1cm9zLXRheGEtZW1wcmVzdGltby1lc3RhLWxlc2FuZG8tby1wb3ZvLXBvYnJlL2FtcC8?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T15:01:39Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"Escola Educação",
+         "title":"Estes 5 alimentos prebióticos podem MUDAR sua vida intestinal - Escola Educação",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZXNjb2xhZWR1Y2FjYW8uY29tLmJyLzUtYWxpbWVudG9zLXByZWJpb3RpY29zLXF1ZS1wb2RlbS10cmFuc2Zvcm1hci1zdWEtc2F1ZGUtaW50ZXN0aW5hbC1zZWd1bmRvLW51dHJpY2lvbmlzdGFzL9IBAA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T15:00:37Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"iG Mail",
+         "title":"Zelador desliga freezer e perde 20 anos de pesquisas, nos EUA - iG Mail",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdWx0aW1vc2VndW5kby5pZy5jb20uYnIvbXVuZG8vMjAyMy0wNi0yNy96ZWxhZG9yLWRlc2xpZ2EtZnJlZXplci1lLXBlcmRlLTIwLWFub3MtZGUtcGVzcXVpc2FzLW5vcy1ldWEuaHRtbNIBdmh0dHBzOi8vdWx0aW1vc2VndW5kby5pZy5jb20uYnIvbXVuZG8vMjAyMy0wNi0yNy96ZWxhZG9yLWRlc2xpZ2EtZnJlZXplci1lLXBlcmRlLTIwLWFub3MtZGUtcGVzcXVpc2FzLW5vcy1ldWEuaHRtbC5hbXA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T13:39:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"Senado Federal",
+         "title":"Roberto Campos Neto será ouvido novamente pela CAE - Senado Federal",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3MTIuc2VuYWRvLmxlZy5ici9ub3RpY2lhcy9tYXRlcmlhcy8yMDIzLzA2LzI3L3JvYmVydG8tY2FtcG9zLW5ldG8tc2VyYS1vdXZpZG8tbm92YW1lbnRlLXBlbGEtY2Fl0gEA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T13:36:41Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"Diário 24 Horas",
+         "title":"Lucília declara guerra contra Gilda e revela seu verdadeiro plano em Amor Perfeito - Diário 24 Horas",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5kaWFyaW8yNGhvcmFzLmNvbS5ici9ub3RpY2lhLzY0NTk0LWx1Y2lsaWEtZGVjbGFyYS1ndWVycmEtY29udHJhLWdpbGRhLWUtcmV2ZWxhLXNldS12ZXJkYWRlaXJvLXBsYW5vLWVtLWFtb3ItcGVyZmVpdG_SAX1odHRwczovL3d3dy5kaWFyaW8yNGhvcmFzLmNvbS5ici9hbXAvNjQ1OTQtbHVjaWxpYS1kZWNsYXJhLWd1ZXJyYS1jb250cmEtZ2lsZGEtZS1yZXZlbGEtc2V1LXZlcmRhZGVpcm8tcGxhbm8tZW0tYW1vci1wZXJmZWl0bw?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T13:35:49Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"iG Mail",
+         "title":"João Guilherme rebate críticas após usar cropped em Paris - iG Mail",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZ2VudGUuaWcuY29tLmJyL2NlbGVicmlkYWRlcy8yMDIzLTA2LTI3L2pvYW8tZ3VpbGhlcm1lLXJlYmF0ZS1jcml0aWNhcy1wb3ItdXNhci1jcm9wcGVkLmh0bWzSAWhodHRwczovL2dlbnRlLmlnLmNvbS5ici9jZWxlYnJpZGFkZXMvMjAyMy0wNi0yNy9qb2FvLWd1aWxoZXJtZS1yZWJhdGUtY3JpdGljYXMtcG9yLXVzYXItY3JvcHBlZC5odG1sLmFtcA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T13:03:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"UOL Economia",
+         "title":"Plano Safra 2023/24 terá R$ 364,22 bilhões produtores rurais; veja taxas - UOL Economia",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMimQFodHRwczovL2Vjb25vbWlhLnVvbC5jb20uYnIvbm90aWNpYXMvZXN0YWRhby1jb250ZXVkby8yMDIzLzA2LzI3L3BsYW5vLXNhZnJhLTIwMjMyNC10ZXJhLXJlY3Vyc29zLWRhLW9yZGVtLWRlLXItMzY0MjItYmlsaG9lcy0yNy1hLW1haXMtcXVlLWVtLTIwMjIyMy5odG3SAZ0BaHR0cHM6Ly9lY29ub21pYS51b2wuY29tLmJyL25vdGljaWFzL2VzdGFkYW8tY29udGV1ZG8vMjAyMy8wNi8yNy9wbGFuby1zYWZyYS0yMDIzMjQtdGVyYS1yZWN1cnNvcy1kYS1vcmRlbS1kZS1yLTM2NDIyLWJpbGhvZXMtMjctYS1tYWlzLXF1ZS1lbS0yMDIyMjMuYW1wLmh0bQ?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T12:57:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"Investing.com Brasil",
+         "title":"IPCA-15: Prévia da inflação sobe 0,04% em junho Por Investing.com - Investing.com Brasil",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYnIuaW52ZXN0aW5nLmNvbS9uZXdzL2Vjb25vbWljLWluZGljYXRvcnMvaXBjYTE1LXByZXZpYS1kYS1pbmZsYWNhby1zb2JlLTAwNC1lbS1qdW5oby0xMTI2MTEz0gEA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T12:03:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"Movimento Country",
+         "title":"Acidente com o ônibus da cantora Brisa Star deixa 15 feridos - Movimento Country",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm1vdmltZW50b2NvdW50cnkuY29tL2FjaWRlbnRlLW9uaWJ1cy1icmlzYS1zdGFyL9IBAA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T12:00:04Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"IBGE",
+         "title":"Prévia da inflação de junho fica em 0,04% | Agência de Notícias - IBGE",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMihwFodHRwczovL2FnZW5jaWFkZW5vdGljaWFzLmliZ2UuZ292LmJyL2FnZW5jaWEtbm90aWNpYXMvMjAxMi1hZ2VuY2lhLWRlLW5vdGljaWFzL25vdGljaWFzLzM3MjI4LXByZXZpYS1kYS1pbmZsYWNhby1kZS1qdW5oby1maWNhLWVtLTAtMDTSAQA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T12:00:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"MeuPlayStation",
+         "title":"Bungie e SEGA estavam na “lista de compras” da Microsoft - MeuPlayStation",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbWV1cHMuY29tLmJyL25vdGljaWFzL2J1bmdpZS1lLXNlZ2EtbGlzdGEtZGUtY29tcHJhcy1kYS1taWNyb3NvZnQv0gEA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T11:39:39Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"Canal Solar | Notícias e artigos sobre energia solar",
+         "title":"Atualização da NR 35: o que muda a partir de julho? - Canal Solar | Notícias e artigos sobre energia solar",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2FuYWxzb2xhci5jb20uYnIvYXR1YWxpemFjYW8tZGEtbnItMzUtby1xdWUtbXVkYS1hLXBhcnRpci1kZS1qdWxoby_SAQA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T11:39:12Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"TecMundo",
+         "title":"Windows Copilot: imagens mostram visual e funcionamento da IA no Windows 11 - TecMundo",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRlY211bmRvLmNvbS5ici9zb2Z0d2FyZS8yNjU2NTYtd2luZG93cy1jb3BpbG90LXByaW1laXJhcy1pbWFnZW5zLXZpc3VhbC1mdW5jaW9uYW1lbnRvLWlhLmh0bdIBAA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T11:30:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"UmDois Esportes",
+         "title":"Athletico deve manter três zagueiros contra o Alianza Lima; veja o time - UmDois Esportes",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnVtZG9pc2VzcG9ydGVzLmNvbS5ici9hdGhsZXRpY28vYXRobGV0aWNvLWRldmUtbWFudGVyLXRyZXMtemFndWVpcm9zLWNvbnRyYS1vLWFsaWFuemEtbGltYS12ZWphLW8tcHJvdmF2ZWwtdGltZS_SAYABaHR0cHM6Ly93d3cudW1kb2lzZXNwb3J0ZXMuY29tLmJyL2F0aGxldGljby9hdGhsZXRpY28tZGV2ZS1tYW50ZXItdHJlcy16YWd1ZWlyb3MtY29udHJhLW8tYWxpYW56YS1saW1hLXZlamEtby1wcm92YXZlbC10aW1lL2FtcC8?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T11:07:00Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"InfoMoney",
+         "title":"Petrobras (PETR4) capta US$ 1,25 bi com emissão no exterior, Itaú (ITUB4) vende US$ 221,8 mi em ações da XP e Odontoprev (ODPV3) pagará JCP - InfoMoney",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL3BldHJvYnJhcy1wZXRyNC1jYXB0YS11cy0xMjUtYmktY29tLWVtaXNzYW8tbm8tZXh0ZXJpb3ItaXRhdS1pdHViNC12ZW5kZS11cy0yMjE4LW1pLWVtLWFjb2VzLWRhLXhwLWUtb2RvbnRvcHJldi1vZHB2My1wYWdhcmEtamNwL9IBqwFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL3BldHJvYnJhcy1wZXRyNC1jYXB0YS11cy0xMjUtYmktY29tLWVtaXNzYW8tbm8tZXh0ZXJpb3ItaXRhdS1pdHViNC12ZW5kZS11cy0yMjE4LW1pLWVtLWFjb2VzLWRhLXhwLWUtb2RvbnRvcHJldi1vZHB2My1wYWdhcmEtamNwL2FtcC8?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T10:42:30Z",
+         "content":null
+      },
+      {
+         "source":{
+            "id":"google-news",
+            "name":"Google News"
+         },
+         "author":"ACidade ON - Araraquara, Campinas, Ribeirão Preto e São Carlos",
+         "title":"Tempo firme nesta terça em SP, mas tem frente fria a caminho; Confira a previsão - ACidade ON - Araraquara, Campinas, Ribeirão Preto e São Carlos",
+         "description":null,
+         "url":"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hY2lkYWRlb24uY29tL3JpYmVpcmFvcHJldG8vY290aWRpYW5vL1RlbXBvLWZpcm1lLW5lc3RhLXRlcmNhLWVtLVNQLW1hcy10ZW0tZnJlbnRlLWZyaWEtYS1jYW1pbmhvLUNvbmZpcmEtYS1wcmV2aXNhby0yMDIzMDYyNy0wMDAxLmh0bWzSAZcBaHR0cHM6Ly93d3cuYWNpZGFkZW9uLmNvbS9hbXAvcmliZWlyYW9wcmV0by9jb3RpZGlhbm8vVGVtcG8tZmlybWUtbmVzdGEtdGVyY2EtZW0tU1AtbWFzLXRlbS1mcmVudGUtZnJpYS1hLWNhbWluaG8tQ29uZmlyYS1hLXByZXZpc2FvLTIwMjMwNjI3LTAwMDEuaHRtbA?oc=5",
+         "urlToImage":null,
+         "publishedAt":"2023-06-27T10:03:09Z",
+         "content":null
+      }
+   ]
+
