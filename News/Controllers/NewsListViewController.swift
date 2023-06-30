@@ -26,6 +26,7 @@ class NewsListViewController: UIViewController {
         // Toda vez que eu clicar sobre essa table view, quem delega o que acontecerá é ela mesmo
         newsListTableView.delegate = self
         newsListTableView.dataSource = self
+        newsListTableView.register(UINib(nibName: "NewsTableViewCell", bundle: nil), forCellReuseIdentifier: "NewsTableViewCell")
     }
     
     private func initLocalDataProvider() {
@@ -33,7 +34,6 @@ class NewsListViewController: UIViewController {
         self.localDataProvider?.delegate = self
         self.localDataProvider?.getNewsList()
     }
-
 }
 
 extension NewsListViewController: UITableViewDelegate {
@@ -43,20 +43,28 @@ extension NewsListViewController: UITableViewDelegate {
 }
 
 extension NewsListViewController: UITableViewDataSource {
+    
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return newsList?.count ?? 0
+        return self.newsList?.count ?? 0
     }
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
-        return UITableViewCell()
+        guard let cell = tableView.dequeueReusableCell(withIdentifier: "NewsTableViewCell", for: indexPath) as? NewsTableViewCell else {
+            fatalError("Unable to dequeue subclassed cell")
+        }
+        
+        guard let newsList = newsList else {
+            fatalError("Does not have a news list")
+        }
+        
+        cell.news = newsList[indexPath.row]
+        return cell
     }
+    
 }
-
 extension NewsListViewController: NewsListLocalDataProviderProtocol {
     func sucessData(model: Any) {
-        // print("Model: \(model)")
-        newsList = model as? [NewsModel]
-        newsListTableView.reloadData()
+        self.newsList = model as? [NewsModel]
     }
     
     func errorData(_ provide: GenericDataProvider?, error: Error) {

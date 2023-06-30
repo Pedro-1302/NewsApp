@@ -15,6 +15,9 @@
                     <navigationBar key="navigationBar" contentMode="scaleToFill" largeTitles="YES" id="HdG-51-Aou">
                         <rect key="frame" x="0.0" y="59" width="393" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
+                        <color key="backgroundColor" red="0.49803921569999998" green="0.4039215686" blue="0.74509803919999995" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="tintColor" red="0.49803921569999998" green="0.4039215686" blue="0.74509803919999995" alpha="1" colorSpace="calibratedRGB"/>
+                        <color key="barTintColor" red="0.49803921569999998" green="0.4039215686" blue="0.74509803919999995" alpha="1" colorSpace="calibratedRGB"/>
                         <navigationBarAppearance key="standardAppearance"/>
                     </navigationBar>
                     <connections>
@@ -39,7 +42,7 @@
                             </tableView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" red="0.49803921569999998" green="0.4039215686" blue="0.74509803919999995" alpha="1" colorSpace="calibratedRGB"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="YDz-kg-Zgb" secondAttribute="bottom" id="5fY-Fb-8fC"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="YDz-kg-Zgb" secondAttribute="trailing" id="IHd-Or-vnW"/>

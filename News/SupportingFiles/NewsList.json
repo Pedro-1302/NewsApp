@@ -1,263 +1,241 @@
- [
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"Meu Timão",
-         "title":"Tamires fala sobre convocação para Copa do Mundo e efeito no Corinthians - Meu Timão",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMigwFodHRwczovL3d3dy5tZXV0aW1hby5jb20uYnIvbm90aWNpYXMtZG8tY29yaW50aGlhbnMvNDUzNDEzL3RhbWlyZXMtZmFsYS1zb2JyZS1jb252b2NhY2FvLXBhcmEtY29wYS1kby1tdW5kby1lLWVmZWl0by1uby1jb3JpbnRoaWFuc9IBd2h0dHBzOi8vd3d3Lm1ldXRpbWFvLmNvbS5ici9hbXAtbm90aWNpYS80NTM0MTMvdGFtaXJlcy1mYWxhLXNvYnJlLWNvbnZvY2FjYW8tcGFyYS1jb3BhLWRvLW11bmRvLWUtZWZlaXRvLW5vLWNvcmludGhpYW5z?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T16:34:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"InfoMoney",
-         "title":"Ibovespa em queda de mais de 1%, dólar em alta: por que a ata do Copom e o IPCA-15 não animaram o mercado - InfoMoney",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL2lib3Zlc3BhLWVtLXF1ZWRhLWRlLW1haXMtZGUtMS1kb2xhci1lbS1hbHRhLXBvci1xdWUtYS1hdGEtZG8tY29wb20tZS1vLWlwY2EtMTUtbmFvLWFuaW1hcmFtLW8tbWVyY2Fkby_SAZEBaHR0cHM6Ly93d3cuaW5mb21vbmV5LmNvbS5ici9tZXJjYWRvcy9pYm92ZXNwYS1lbS1xdWVkYS1kZS1tYWlzLWRlLTEtZG9sYXItZW0tYWx0YS1wb3ItcXVlLWEtYXRhLWRvLWNvcG9tLWUtby1pcGNhLTE1LW5hby1hbmltYXJhbS1vLW1lcmNhZG8vYW1wLw?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T16:09:56Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"O Antagonista",
-         "title":"O que pensa o presidente da Febraban sobre a taxa de juros - O Antagonista",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vb2FudGFnb25pc3RhLnVvbC5jb20uYnIvZWNvbm9taWEvby1xdWUtcGVuc2Etby1wcmVzaWRlbnRlLWRhLWZlYnJhYmFuLXNvYnJlLWEtdGF4YS1kZS1qdXJvcy_SAWhodHRwczovL29hbnRhZ29uaXN0YS51b2wuY29tLmJyL2Vjb25vbWlhL28tcXVlLXBlbnNhLW8tcHJlc2lkZW50ZS1kYS1mZWJyYWJhbi1zb2JyZS1hLXRheGEtZGUtanVyb3MvYW1wLw?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T15:46:14Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"MPF",
-         "title":"MPF pede cancelamento de outorgas de radiodifusão da Jovem Pan por desinformação e incentivo a ações antidemocráticas - MPF",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiqwFodHRwczovL3d3dy5tcGYubXAuYnIvc3Avc2FsYS1kZS1pbXByZW5zYS9ub3RpY2lhcy1zcC9tcGYtcGVkZS1jYW5jZWxhbWVudG8tZGUtb3V0b3JnYXMtZGUtcmFkaW9kaWZ1c2FvLWRhLWpvdmVtLXBhbi1wb3ItZGVzaW5mb3JtYWNhby1lLWluY2VudGl2by1hLWFjb2VzLWFudGlkZW1vY3JhdGljYXPSAQA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T15:20:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"InfoMoney",
-         "title":"Lula diz que fica ‘indignado’ com juros do consignado: ‘Está lesando o povo pobre’ - InfoMoney",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vd3d3LmluZm9tb25leS5jb20uYnIvbWluaGFzLWZpbmFuY2FzL2x1bGEtY29uc2lnbmFkby1pbnNzLWp1cm9zLXRheGEtZW1wcmVzdGltby1lc3RhLWxlc2FuZG8tby1wb3ZvLXBvYnJlL9IBdmh0dHBzOi8vd3d3LmluZm9tb25leS5jb20uYnIvbWluaGFzLWZpbmFuY2FzL2x1bGEtY29uc2lnbmFkby1pbnNzLWp1cm9zLXRheGEtZW1wcmVzdGltby1lc3RhLWxlc2FuZG8tby1wb3ZvLXBvYnJlL2FtcC8?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T15:01:39Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"Escola Educação",
-         "title":"Estes 5 alimentos prebióticos podem MUDAR sua vida intestinal - Escola Educação",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMieGh0dHBzOi8vZXNjb2xhZWR1Y2FjYW8uY29tLmJyLzUtYWxpbWVudG9zLXByZWJpb3RpY29zLXF1ZS1wb2RlbS10cmFuc2Zvcm1hci1zdWEtc2F1ZGUtaW50ZXN0aW5hbC1zZWd1bmRvLW51dHJpY2lvbmlzdGFzL9IBAA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T15:00:37Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"iG Mail",
-         "title":"Zelador desliga freezer e perde 20 anos de pesquisas, nos EUA - iG Mail",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMicmh0dHBzOi8vdWx0aW1vc2VndW5kby5pZy5jb20uYnIvbXVuZG8vMjAyMy0wNi0yNy96ZWxhZG9yLWRlc2xpZ2EtZnJlZXplci1lLXBlcmRlLTIwLWFub3MtZGUtcGVzcXVpc2FzLW5vcy1ldWEuaHRtbNIBdmh0dHBzOi8vdWx0aW1vc2VndW5kby5pZy5jb20uYnIvbXVuZG8vMjAyMy0wNi0yNy96ZWxhZG9yLWRlc2xpZ2EtZnJlZXplci1lLXBlcmRlLTIwLWFub3MtZGUtcGVzcXVpc2FzLW5vcy1ldWEuaHRtbC5hbXA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T13:39:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"Senado Federal",
-         "title":"Roberto Campos Neto será ouvido novamente pela CAE - Senado Federal",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3MTIuc2VuYWRvLmxlZy5ici9ub3RpY2lhcy9tYXRlcmlhcy8yMDIzLzA2LzI3L3JvYmVydG8tY2FtcG9zLW5ldG8tc2VyYS1vdXZpZG8tbm92YW1lbnRlLXBlbGEtY2Fl0gEA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T13:36:41Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"Diário 24 Horas",
-         "title":"Lucília declara guerra contra Gilda e revela seu verdadeiro plano em Amor Perfeito - Diário 24 Horas",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMigQFodHRwczovL3d3dy5kaWFyaW8yNGhvcmFzLmNvbS5ici9ub3RpY2lhLzY0NTk0LWx1Y2lsaWEtZGVjbGFyYS1ndWVycmEtY29udHJhLWdpbGRhLWUtcmV2ZWxhLXNldS12ZXJkYWRlaXJvLXBsYW5vLWVtLWFtb3ItcGVyZmVpdG_SAX1odHRwczovL3d3dy5kaWFyaW8yNGhvcmFzLmNvbS5ici9hbXAvNjQ1OTQtbHVjaWxpYS1kZWNsYXJhLWd1ZXJyYS1jb250cmEtZ2lsZGEtZS1yZXZlbGEtc2V1LXZlcmRhZGVpcm8tcGxhbm8tZW0tYW1vci1wZXJmZWl0bw?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T13:35:49Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"iG Mail",
-         "title":"João Guilherme rebate críticas após usar cropped em Paris - iG Mail",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vZ2VudGUuaWcuY29tLmJyL2NlbGVicmlkYWRlcy8yMDIzLTA2LTI3L2pvYW8tZ3VpbGhlcm1lLXJlYmF0ZS1jcml0aWNhcy1wb3ItdXNhci1jcm9wcGVkLmh0bWzSAWhodHRwczovL2dlbnRlLmlnLmNvbS5ici9jZWxlYnJpZGFkZXMvMjAyMy0wNi0yNy9qb2FvLWd1aWxoZXJtZS1yZWJhdGUtY3JpdGljYXMtcG9yLXVzYXItY3JvcHBlZC5odG1sLmFtcA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T13:03:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"UOL Economia",
-         "title":"Plano Safra 2023/24 terá R$ 364,22 bilhões produtores rurais; veja taxas - UOL Economia",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMimQFodHRwczovL2Vjb25vbWlhLnVvbC5jb20uYnIvbm90aWNpYXMvZXN0YWRhby1jb250ZXVkby8yMDIzLzA2LzI3L3BsYW5vLXNhZnJhLTIwMjMyNC10ZXJhLXJlY3Vyc29zLWRhLW9yZGVtLWRlLXItMzY0MjItYmlsaG9lcy0yNy1hLW1haXMtcXVlLWVtLTIwMjIyMy5odG3SAZ0BaHR0cHM6Ly9lY29ub21pYS51b2wuY29tLmJyL25vdGljaWFzL2VzdGFkYW8tY29udGV1ZG8vMjAyMy8wNi8yNy9wbGFuby1zYWZyYS0yMDIzMjQtdGVyYS1yZWN1cnNvcy1kYS1vcmRlbS1kZS1yLTM2NDIyLWJpbGhvZXMtMjctYS1tYWlzLXF1ZS1lbS0yMDIyMjMuYW1wLmh0bQ?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T12:57:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"Investing.com Brasil",
-         "title":"IPCA-15: Prévia da inflação sobe 0,04% em junho Por Investing.com - Investing.com Brasil",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYnIuaW52ZXN0aW5nLmNvbS9uZXdzL2Vjb25vbWljLWluZGljYXRvcnMvaXBjYTE1LXByZXZpYS1kYS1pbmZsYWNhby1zb2JlLTAwNC1lbS1qdW5oby0xMTI2MTEz0gEA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T12:03:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"Movimento Country",
-         "title":"Acidente com o ônibus da cantora Brisa Star deixa 15 feridos - Movimento Country",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiPGh0dHBzOi8vd3d3Lm1vdmltZW50b2NvdW50cnkuY29tL2FjaWRlbnRlLW9uaWJ1cy1icmlzYS1zdGFyL9IBAA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T12:00:04Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"IBGE",
-         "title":"Prévia da inflação de junho fica em 0,04% | Agência de Notícias - IBGE",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMihwFodHRwczovL2FnZW5jaWFkZW5vdGljaWFzLmliZ2UuZ292LmJyL2FnZW5jaWEtbm90aWNpYXMvMjAxMi1hZ2VuY2lhLWRlLW5vdGljaWFzL25vdGljaWFzLzM3MjI4LXByZXZpYS1kYS1pbmZsYWNhby1kZS1qdW5oby1maWNhLWVtLTAtMDTSAQA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T12:00:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"MeuPlayStation",
-         "title":"Bungie e SEGA estavam na “lista de compras” da Microsoft - MeuPlayStation",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vbWV1cHMuY29tLmJyL25vdGljaWFzL2J1bmdpZS1lLXNlZ2EtbGlzdGEtZGUtY29tcHJhcy1kYS1taWNyb3NvZnQv0gEA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T11:39:39Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"Canal Solar | Notícias e artigos sobre energia solar",
-         "title":"Atualização da NR 35: o que muda a partir de julho? - Canal Solar | Notícias e artigos sobre energia solar",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vY2FuYWxzb2xhci5jb20uYnIvYXR1YWxpemFjYW8tZGEtbnItMzUtby1xdWUtbXVkYS1hLXBhcnRpci1kZS1qdWxoby_SAQA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T11:39:12Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"TecMundo",
-         "title":"Windows Copilot: imagens mostram visual e funcionamento da IA no Windows 11 - TecMundo",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMiaWh0dHBzOi8vd3d3LnRlY211bmRvLmNvbS5ici9zb2Z0d2FyZS8yNjU2NTYtd2luZG93cy1jb3BpbG90LXByaW1laXJhcy1pbWFnZW5zLXZpc3VhbC1mdW5jaW9uYW1lbnRvLWlhLmh0bdIBAA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T11:30:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"UmDois Esportes",
-         "title":"Athletico deve manter três zagueiros contra o Alianza Lima; veja o time - UmDois Esportes",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LnVtZG9pc2VzcG9ydGVzLmNvbS5ici9hdGhsZXRpY28vYXRobGV0aWNvLWRldmUtbWFudGVyLXRyZXMtemFndWVpcm9zLWNvbnRyYS1vLWFsaWFuemEtbGltYS12ZWphLW8tcHJvdmF2ZWwtdGltZS_SAYABaHR0cHM6Ly93d3cudW1kb2lzZXNwb3J0ZXMuY29tLmJyL2F0aGxldGljby9hdGhsZXRpY28tZGV2ZS1tYW50ZXItdHJlcy16YWd1ZWlyb3MtY29udHJhLW8tYWxpYW56YS1saW1hLXZlamEtby1wcm92YXZlbC10aW1lL2FtcC8?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T11:07:00Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"InfoMoney",
-         "title":"Petrobras (PETR4) capta US$ 1,25 bi com emissão no exterior, Itaú (ITUB4) vende US$ 221,8 mi em ações da XP e Odontoprev (ODPV3) pagará JCP - InfoMoney",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMipwFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL3BldHJvYnJhcy1wZXRyNC1jYXB0YS11cy0xMjUtYmktY29tLWVtaXNzYW8tbm8tZXh0ZXJpb3ItaXRhdS1pdHViNC12ZW5kZS11cy0yMjE4LW1pLWVtLWFjb2VzLWRhLXhwLWUtb2RvbnRvcHJldi1vZHB2My1wYWdhcmEtamNwL9IBqwFodHRwczovL3d3dy5pbmZvbW9uZXkuY29tLmJyL21lcmNhZG9zL3BldHJvYnJhcy1wZXRyNC1jYXB0YS11cy0xMjUtYmktY29tLWVtaXNzYW8tbm8tZXh0ZXJpb3ItaXRhdS1pdHViNC12ZW5kZS11cy0yMjE4LW1pLWVtLWFjb2VzLWRhLXhwLWUtb2RvbnRvcHJldi1vZHB2My1wYWdhcmEtamNwL2FtcC8?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T10:42:30Z",
-         "content":null
-      },
-      {
-         "source":{
-            "id":"google-news",
-            "name":"Google News"
-         },
-         "author":"ACidade ON - Araraquara, Campinas, Ribeirão Preto e São Carlos",
-         "title":"Tempo firme nesta terça em SP, mas tem frente fria a caminho; Confira a previsão - ACidade ON - Araraquara, Campinas, Ribeirão Preto e São Carlos",
-         "description":null,
-         "url":"https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5hY2lkYWRlb24uY29tL3JpYmVpcmFvcHJldG8vY290aWRpYW5vL1RlbXBvLWZpcm1lLW5lc3RhLXRlcmNhLWVtLVNQLW1hcy10ZW0tZnJlbnRlLWZyaWEtYS1jYW1pbmhvLUNvbmZpcmEtYS1wcmV2aXNhby0yMDIzMDYyNy0wMDAxLmh0bWzSAZcBaHR0cHM6Ly93d3cuYWNpZGFkZW9uLmNvbS9hbXAvcmliZWlyYW9wcmV0by9jb3RpZGlhbm8vVGVtcG8tZmlybWUtbmVzdGEtdGVyY2EtZW0tU1AtbWFzLXRlbS1mcmVudGUtZnJpYS1hLWNhbWluaG8tQ29uZmlyYS1hLXByZXZpc2FvLTIwMjMwNjI3LTAwMDEuaHRtbA?oc=5",
-         "urlToImage":null,
-         "publishedAt":"2023-06-27T10:03:09Z",
-         "content":null
-      }
-   ]
-
+[{
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Philip Bump",
+        "title": "Analysis | The Trump classified-document audio may be worse than we thought - The Washington Post",
+        "description": "A key section of the audio can be interpreted in one of two ways — with an important difference.",
+        "url": "https://www.washingtonpost.com/politics/2023/06/28/trump-classified-document-audio/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/06-27-2023/t_f0469de5484846859f87ac931a70b90d_name_Trump_audio.png&w=1440",
+        "publishedAt": "2023-06-28T16:10:05Z",
+        "content": "Comment on this story\r\nComment\r\nIn the spring of 2018, the internet was briefly gripped by a weird fever: Did you hear Yanny or Laurel?\r\nThis doesnt make any sense in the abstract, admittedly. At iss… [+2500 chars]"
+    }, {
+        "source": {
+            "id": "the-washington-post",
+            "name": "The Washington Post"
+        },
+        "author": "Liz Sly",
+        "title": "Putin's standing as global strongman in jeopardy after revolt - The Washington Post",
+        "description": "The Wagner Group mutiny has jeopardized Vladimir Putin's strongman image, jolting assumptions about his autocratic credentials and Russia’s stability.",
+        "url": "https://www.washingtonpost.com/world/2023/06/28/putin-strongman-image-damaged/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3C3E52ZVDZ4NLHW5ZKPJNFTN24_size-normalized.jpg&w=1440",
+        "publishedAt": "2023-06-28T16:10:04Z",
+        "content": "Comment on this story\r\nComment\r\nOver the past decade, President Vladimir Putin has won friends and admirers worldwide as the embodiment of a strongman, using military interventions in the Middle East… [+6946 chars]"
+    }, {
+        "source": {
+            "id": "the-wall-street-journal",
+            "name": "The Wall Street Journal"
+        },
+        "author": "Eric Wallerstein, Ryan Dezember, David Marino-Nachison, Alex Frangos, Bob Henderson, Gunjan Banerji, Matt Wirz, Patricia Kowsmann, Will Horner, Jinjoo Lee, Eliot Brown, Frances Yoon, Megumi Fujikawa, Heard Editors",
+        "title": "Stock Market News Today: Dow Slips 100 Points; Tesla Stock Rises - The Wall Street Journal",
+        "description": "Live news and updates on what's moving stocks and other markets, including the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite",
+        "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-06-28-2023",
+        "urlToImage": "https://images.wsj.net/im-785590/social",
+        "publishedAt": "2023-06-28T16:02:00Z",
+        "content": "The tech-heavy Nasdaq Composite rose Wednesday, boosted by shares of Apple and Tesla.\r\nChip stocks shook off morning declines after The Wall Street Journal reported that the U.S. was considering new … [+1244 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "YouTube"
+        },
+        "author": null,
+        "title": "Nintendo Switch - Get In On the Fun, Together - Nintendo of America",
+        "description": "Bring home the Nintendo Switch™ system and get everyone in on the fun together! Games shown rated Everyone to Everyone 10+ by the ESRB.Subscribe for more Nin...",
+        "url": "https://www.youtube.com/watch?v=8RngAaAhdmk",
+        "urlToImage": "https://i.ytimg.com/vi/8RngAaAhdmk/maxresdefault.jpg",
+        "publishedAt": "2023-06-28T15:58:19Z",
+        "content": null
+    }, {
+        "source": {
+            "id": null,
+            "name": "BBC News"
+        },
+        "author": "https://www.facebook.com/bbcnews",
+        "title": "Daniel Penny pleads not guilty in NY subway chokehold death of Jordan Neely - BBC",
+        "description": "Daniel Penny, 24, denies second-degree manslaughter and negligent homicide in the death of Jordan Neely.",
+        "url": "https://www.bbc.com/news/world-us-canada-66038096",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3339/production/_130231131_danielpenny.jpg",
+        "publishedAt": "2023-06-28T15:50:18Z",
+        "content": "A former US Marine who placed a homeless man in a fatal chokehold on a New York City subway train has pleaded not guilty to criminal charges.\r\nDaniel Penny, 24, was indicted in court on Wednesday on … [+3669 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Jake Fischer",
+        "title": "2023 NBA free agency: The Blazers’ quest to improve around Damian Lillard remains a serious challenge - Yahoo Sports",
+        "description": "There has been little talk league-wide of any substantive movement for Portland outside of its well-known intention to re-sign versatile forward Jerami Grant...",
+        "url": "https://sports.yahoo.com/2023-nba-free-agency-the-blazers-quest-to-improve-around-damian-lillard-remains-a-serious-challenge-152827475.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/zOZihSShCyxSTCI9YOf_VA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-06/8d4c5810-15c7-11ee-b77f-1b5922ea4250",
+        "publishedAt": "2023-06-28T15:28:27Z",
+        "content": "For all the speculation surrounding the Portland Trail Blazers Mondays meeting between general manager Joe Cronin, Damian Lillard and his agent, Aaron Goodwin, only added to the noise theres been lit… [+10240 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Nature.com"
+        },
+        "author": null,
+        "title": "Fanzor is a eukaryotic programmable RNA-guided endonuclease - Nature.com",
+        "description": "Nature - Fanzor is a eukaryotic programmable RNA-guided endonuclease",
+        "url": "https://www.nature.com/articles/s41586-023-06356-2",
+        "urlToImage": null,
+        "publishedAt": "2023-06-28T15:12:41Z",
+        "content": null
+    }, {
+        "source": {
+            "id": "associated-press",
+            "name": "Associated Press"
+        },
+        "author": "LARRY NEUMEISTER",
+        "title": "A jury found Trump responsible for sexual abuse. Now he's suing his accuser for saying she was raped - The Associated Press",
+        "description": "Former President Donald Trump has countersued the advice columnist who accused him of rape, saying she defamed him by continuing to insist she was raped even after a jury declined to agree. Lawyers for Trump filed papers late Tuesday to say writer E. Jean Car…",
+        "url": "https://apnews.com/article/trump-rape-trial-columnist-carroll-9a74506469da3b408b5a7f2ba4936254",
+        "urlToImage": "https://dims.apnews.com/dims4/default/5abf887/2147483647/strip/true/crop/5374x3023+0+280/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F93%2F16%2F4df864b198b9fdb9508c101f2e20%2F3d9233e1a8bc45a88c3fa08085512a7e",
+        "publishedAt": "2023-06-28T14:50:00Z",
+        "content": "NEW YORK (AP) Former President Donald Trump is trying to turn the tables on the advice columnist who won a $5 million jury award against him in a sexual abuse lawsuit, saying in a countersuit that sh… [+3241 chars]"
+    }, {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Emily Mae Czachor",
+        "title": "7 die at Panama City Beach this month; sheriff \"beyond frustrated\" by ignored warnings - CBS News",
+        "description": "Panama City Beach saw the highest number of deadly incidents linked to rip currents in the U.S. in June, according to the National Weather Service.",
+        "url": "https://www.cbsnews.com/news/7-die-panama-city-beach-rip-current-sheriff-frustrated-ignored-warnings/",
+        "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/06/28/cbcca433-f668-403d-b431-ba93d586ae84/thumbnail/1200x630/fac4a66d08cec36b4440b83400f60bc3/panama-city-beach.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+        "publishedAt": "2023-06-28T14:03:00Z",
+        "content": "Seven people died over nine days this month at Panama City Beach along the Gulf Coast of Florida, the National Weather Service said. Rip currents were the primary hazard listed alongside the agency's… [+3651 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Hollywood Reporter"
+        },
+        "author": "Mia Galuppo",
+        "title": "The Reinvention of Eva Longoria - Hollywood Reporter",
+        "description": "After the success of 'Desperate Housewives,' the television star made a concerted effort to pursue directing, despite initial resistance: \"It was like, 'Here comes a dumb actor.'\" Ten years later, she released her feature film debut, 'Flamin' Hot,' marrying h…",
+        "url": "https://www.hollywoodreporter.com/movies/movie-features/eva-longoria-interview-flamin-hot-directing-1235524825/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/06/Eva-Longoria_Flamin-THR_Set-2_341-SPLASH_crop.jpg?w=1024",
+        "publishedAt": "2023-06-28T14:00:58Z",
+        "content": "In 2012, Eva Longoria wrapped up the eighth and final season of Desperate Housewives, and she had a decision to make about her future. “That last year of Housewives,” she says, “I remember getting ev… [+18908 chars]"
+    }, {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Bryan Mena",
+        "title": "Fed Chair Powell: Not ruling out back-to-back rate hikes - CNN",
+        "description": "Federal Reserve Chair Jerome Powell doubled down Wednesday on the hawkish view that the central bank isn’t done tamping down inflation, and could even implement consecutive rate hikes at its upcoming monetary policy meetings.",
+        "url": "https://www.cnn.com/2023/06/28/economy/powell-ecb-panel/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230628094743-01-jerome-powell-ecb-forum-on-central-banking-screenshot.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2023-06-28T13:56:00Z",
+        "content": "Federal Reserve Chair Jerome Powell doubled down Wednesday on the hawkish view that the central bank isnt done tamping down inflation, and could even implement consecutive rate hikes at its upcoming … [+4168 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "CBS Sports"
+        },
+        "author": "",
+        "title": "Ryan Mallett dies at 35: Ex-Arkansas, NFL QB drowns in Florida - CBS Sports",
+        "description": "Mallett broke every major program passing record during his time with the Razorbacks",
+        "url": "https://www.cbssports.com/college-football/news/ryan-mallett-dies-at-35-ex-arkansas-nfl-qb-drowns-in-florida/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/06/27/4f09addb-a66e-4177-8e38-e62d16278548/thumbnail/1200x675/e51ed6aaf2a0329c538ab99bc90d55c8/mallett.jpg",
+        "publishedAt": "2023-06-28T13:17:00Z",
+        "content": "Former Arkansas and Michigan quarterback Ryan Mallett died on Tuesday. Mallett, 35, drowned at a Destin, Florida, beach and was pronounced dead after being transported to a local hospital. \r\nAccordin… [+2309 chars]"
+    }, {
+        "source": {
+            "id": "cbs-news",
+            "name": "CBS News"
+        },
+        "author": "Ian Lee, Justine Redman, Tucker Reals",
+        "title": "Russia blows up packed Ukraine restaurant, killing kids, as Putin shows war still on after Wagner mutiny - CBS News",
+        "description": "Officials say three children were among those killed by a Russian missile strike in Kramatorsk, as the Kremlin tries to project control after Wagner's \"rebellion.\"",
+        "url": "https://www.cbsnews.com/news/russia-ukraine-war-kramatorsk-restaurant-strike-putin-wagner-mutiny/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/06/28/d0a06377-48a2-4987-84a8-fab2325d06a6/thumbnail/1200x630/a60c86b7a1854f043be93ab70d00b17f/ukraine-kramatorsk-restaurant-1259137420.jpg?v=da961fb78efc3933073ecc68b1f3f72b",
+        "publishedAt": "2023-06-28T13:13:24Z",
+        "content": "Kyiv — A Russian missile strike on a crowded pizza restaurant in Ukraine killed at least nine people, including three children, and left dozens more injured, officials said Wednesday. Twisted metal a… [+4245 chars]"
+    }, {
+        "source": {
+            "id": "ars-technica",
+            "name": "Ars Technica"
+        },
+        "author": "Andrew Cunningham",
+        "title": "GeForce RTX 4060 review: Not thrilling, but a super-efficient $299 workhorse - Ars Technica",
+        "description": "60-class GPUs are Nvidia's most popular; the 4060 don't fix what ain't broke.",
+        "url": "https://arstechnica.com/gadgets/2023/06/geforce-rtx-4060-review-not-thrilling-but-a-super-efficient-299-workhorse/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/06/IMG_1328-760x380.jpeg",
+        "publishedAt": "2023-06-28T13:00:44Z",
+        "content": "Enlarge/ PNY's take on the basic $299 version of the Nvidia GeForce RTX 4060. \r\n49 with \r\nNvidia's GeForce 1060, 2060, and 3060 graphics cards are some of the most widely used GPUs in all of PC gamin… [+5446 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "KSL.com"
+        },
+        "author": "https://www.facebook.com/kslcom/",
+        "title": "Costco is cracking down on sharing membership cards - KSL.com",
+        "description": "Some shoppers are buying Costco's $4.99 rotisserie chickens and paying at self-checkout. The problem: They aren't all members.",
+        "url": "https://www.ksl.com/article/50675677/costco-is-cracking-down-on-sharing-membership-cards",
+        "urlToImage": "https://img.ksl.com/slc/2936/293653/29365368.jpg?filter=kslv2/responsive_story_lg",
+        "publishedAt": "2023-06-28T12:50:52Z",
+        "content": "Estimated read time: 2-3\r\n minutes\r\nNEW YORK Some shoppers are buying Costco's $4.99 rotisserie chickens and paying at self-checkout. The problem: They aren't all members.\r\nSince Costco has expanded … [+1861 chars]"
+    }, {
+        "source": {
+            "id": null,
+            "name": "Yahoo Entertainment"
+        },
+        "author": "Raechal Shewfelt",
+        "title": "Actor Julian Sands, 65, confirmed dead after going missing on winter hike in California - Yahoo Entertainment",
+        "description": "The \"A Room With a View\" star had last been seen on California's Mt. Baldy in January, right before a storm struck.",
+        "url": "https://www.yahoo.com/entertainment/actor-julian-sands-65-confirmed-203859419.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/JM6radqVLwCfpSjY9iXuyQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03Mjg-/https://s.yimg.com/os/creatr-uploaded-images/2023-01/3deca140-9835-11ed-bfff-f85cd211fd3c",
+        "publishedAt": "2023-06-28T12:07:11Z",
+        "content": "Actor Julian Sands attends a BAFTA event on Jan. 4, 2020, in Los Angeles. (Photo: Amy Sussman/Getty Images for BAFTA LA)\r\nBritish actor Julian Sands, known for his roles in the 1985 costume drama A R… [+4172 chars]"
+    }, {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": "Natalie Neysa Alund",
+        "title": "Stamp price increase: USPS 'Forever' stamp, postcard cost to rise - USA TODAY",
+        "description": "In addition to the 3 cent jump in first-class \"Forever\" stamps, the cost to send a domestic postcard will increase to 51 cents.",
+        "url": "https://www.usatoday.com/story/money/2023/06/28/stamp-price-increase-usps/70363626007/",
+        "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/06/05/NCOD/46508607-56e4-4cae-b0d2-225424ccdd67-AP_Postal_Robberies.jpg?crop=5780,3252,x0,y293&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2023-06-28T12:07:08Z",
+        "content": "The U.S. Postal Service will hike the price of first-class mail \"Forever\" stamps to 66 cents from 63 cents.\r\nAccording to a release from the postal service, the stamp price jumps July 9.\r\nIn an April… [+1094 chars]"
+    }, {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": ", USA TODAY",
+        "title": "Air quality index today: Maps of Chicago, Detroit, Cleveland - USA TODAY",
+        "description": "Chicago and Detroit are among the cities in the Midwest impacted by smoke from the Canadian wildfires.",
+        "url": "https://www.usatoday.com/story/news/nation/2023/06/28/air-quality-index-map-today/70363547007/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/27/PDTF/9c723c5d-d63e-4f01-83c1-490a39818f30-RG106413.jpg?auto=webp&crop=2399,1350,x0,y244&format=pjpg&width=1200",
+        "publishedAt": "2023-06-28T11:52:21Z",
+        "content": "Poor air quality is expected to continue Wednesday in parts of the Midwest, Great Lakes and Upper Mississippi Valley thanks to the Canadian wildfires, according to the National Weather Service.\r\nAs o… [+1066 chars]"
+    }, {
+        "source": {
+            "id": "usa-today",
+            "name": "USA Today"
+        },
+        "author": ", USA TODAY",
+        "title": "At least a year younger on paper: South Korea makes changes to age-counting law - USA TODAY",
+        "description": "South Korean formally abandoned some traditional methods for determining a person's age and replaced it with the international standard.",
+        "url": "https://www.usatoday.com/story/news/world/2023/06/28/south-korea-changes-age-counting-law/70363453007/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2023/06/28/USAT/84ed849c-ab4d-4a60-93ef-fe0631a99c6f-AFP_AFP_33L78KK.jpeg?auto=webp&crop=6923,3894,x0,y400&format=pjpg&width=1200",
+        "publishedAt": "2023-06-28T10:26:07Z",
+        "content": "Millions of South Koreans woke up at least a year younger on Wednesday.\r\nOn paper, anyway.\r\nThat's because the East Asian country formally abandoned some traditional methods for determining a person'… [+2188 chars]"
+    }, {
+        "source": {
+            "id": "financial-times",
+            "name": "Financial Times"
+        },
+        "author": "Leila Abboud",
+        "title": "Protests break out in France after police shoot dead teenage driver - Financial Times",
+        "description": "President Emmanuel Macron calls killing ‘inexplicable and inexcusable’",
+        "url": "https://www.ft.com/content/250e7246-1c2a-4039-a162-f64f71b82782",
+        "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2464f975-8338-49ad-a145-9ac4c217b9e6.jpg?source=next-opengraph&fit=scale-down&width=900",
+        "publishedAt": "2023-06-28T10:17:11Z",
+        "content": "Unrest broke out in several Parisian suburbs overnight after police shot and killed a 17-year-old driver who tried to evade traffic control officers. \r\nThe incident, which took place in Nanterre on T… [+4131 chars]"
+    }]

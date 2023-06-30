@@ -12,7 +12,7 @@ import UIKit
 struct NewsModel: Codable {
     var source: SourceModel
     var autor: String?
-    var tittle: String?
+    var title: String?
     var description: String?
     var url: String?
     var urlToImage: String?
