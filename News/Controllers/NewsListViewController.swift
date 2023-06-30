@@ -62,6 +62,7 @@ extension NewsListViewController: UITableViewDataSource {
     }
     
 }
+
 extension NewsListViewController: NewsListLocalDataProviderProtocol {
     func sucessData(model: Any) {
         self.newsList = model as? [NewsModel]
