@@ -22,8 +22,14 @@ class NewsListViewController: UIViewController {
         initLocalDataProvider()
     }
     
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        if segue.identifier == "ShowNewsViewController", let destination = segue.destination as? NewsViewController {
+            destination.news = sender as? NewsModel
+        }
+    }
+    
     private func setupTableView() {
-        // Toda vez que eu clicar sobre essa table view, quem delega o que acontecerá é ela mesmo
+        // Toda vez que eu clicar sobre essa table view, quem delega o que acontecerá é ela mesma
         newsListTableView.delegate = self
         newsListTableView.dataSource = self
         newsListTableView.register(UINib(nibName: "NewsTableViewCell", bundle: nil), forCellReuseIdentifier: "NewsTableViewCell")
@@ -38,7 +44,9 @@ class NewsListViewController: UIViewController {
 
 extension NewsListViewController: UITableViewDelegate {
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
-        print("didSelectRowAt")
+        guard let newsList = newsList else { fatalError("The selected news was not found") }
+        
+        performSegue(withIdentifier: "ShowNewsViewController", sender: newsList[indexPath.row])
     }
 }
 
@@ -58,6 +66,10 @@ extension NewsListViewController: UITableViewDataSource {
         }
         
         cell.news = newsList[indexPath.row]
+        
+        // Retira a selecao da celula 
+        cell.selectionStyle = .none
+        
         return cell
     }
     

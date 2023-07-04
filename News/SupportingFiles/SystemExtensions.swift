@@ -18,7 +18,7 @@ extension DateFormatter {
 }
 
 extension UIImageView {
-    func downloadedImage(from url: URL, contentMode mode: ContentMode = .scaleAspectFit) {
+    func downloadedImage(from url: URL, contentMode mode: ContentMode = .scaleAspectFill) {
         contentMode = mode
         
             URLSession.shared.dataTask(with: url) { data, response, error in
@@ -41,7 +41,7 @@ extension UIImageView {
         }.resume()
     }
     
-    func loadImage(from link: String?, contentMode mode: ContentMode = .scaleAspectFit) {
+    func loadImage(from link: String?, contentMode mode: ContentMode = .scaleToFill) {
         guard let link = link, let url = URL(string: link) else { return }
         
         downloadedImage(from: url, contentMode: contentMode)
